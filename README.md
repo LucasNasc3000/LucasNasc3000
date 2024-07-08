@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Lucas Fortunato, seja bem vindo(a) ao meu perfil!
 
 - 🔭 Trabalho com back-end e front-end
-- 🌱 Aprendendo Typescript, Php, Nodejs e Reactjs
+- 🌱 Aprendendo Typescript, Php e Nodejs
 
 ![LucasNasc3000 GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasNasc3000&show_icons=true&theme=radical)
 
