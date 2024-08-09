@@ -1,4 +1,4 @@
-## Olá! Meu nome é Lucas Fortunato, seja bem vindo(a) ao meu perfil!
+## Bem vindo(a) ao meu perfil!
 
 - 🔭 Trabalho com back-end e front-end
 - 🌱 Aprendendo Typescript, Php e Nodejs
