@@ -1,7 +1,7 @@
 ## Welcome to my profile!
 
-- 🔭 I work with back-end, front-end and basic of dev-ops
-- 🌱 Learning Typescript, Php and Nodejs
+- 🔭 I work with back-end, front-end and dev-ops
+- 🌱 Learning Nestjs and AWS
 
 ![LucasNasc3000 GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasNasc3000&show_icons=true&theme=radical)
 
@@ -30,7 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg" hight=50px width=50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" hight=50px width=50px />
 
 ### Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" hight=50px width=50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" hight=50px width=50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" hight=50px width=50px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" hight=50px width=50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" hight=50px width=50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" hight=50px width=50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" hight=50px width=50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" hight=50px width=50px />
           
 
 
