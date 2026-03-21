@@ -7,7 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNasc3000&layout=compact)
 
-<a href="https://www.linkedin.com/in/lucas-nascimento-fortunato-b63162297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:lucasfortunato328@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## Tecnologies I work/study
