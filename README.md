@@ -16,7 +16,7 @@
 
 ## 🚀 Projetos em destaque
 
-### [stm-nest](https://github.com/LucasNasc3000) — SaaS de gestão de estoque e vendas
+### [stm-nest](https://github.com/LucasNasc3000/stm-nest) — SaaS de gestão de estoque e vendas
 SaaS voltado para pequenos negócios, construído com **NestJS + TypeORM + PostgreSQL** no back-end e **React** no front-end.
 - Autenticação JWT (access + refresh) via cookies HttpOnly, com proteção CSRF (double-submit via `csrf-csrf`)
 - Padrão de snapshot imutável para movimentações de estoque (auditoria histórica)
