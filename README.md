@@ -3,7 +3,6 @@
 
 <p align="center">
 🔭 Atualmente construindo aplicações full stack com <b>NestJS</b>, <b>TypeORM</b> e <b>PostgreSQL</b> no back-end e <b>React/Redux</b> no front-end<br/>
-🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas (UNINTER — conclusão em 2026)<br/>
 💼 Aberto a oportunidades como <b>Desenvolvedor Júnior</b>
 </p>
 
