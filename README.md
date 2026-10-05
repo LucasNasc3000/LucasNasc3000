@@ -35,6 +35,7 @@ Interface web em **React** para o mesmo SaaS de estoque e vendas, com dashboard 
 
 **Back-end:** NestJS · Node.js · TypeORM · PostgreSQL<br>
 **Front-end:** React · Redux / Redux-Saga · Styled Components<br>
+**Testes unitários:** Jest<br>
 **DevOps & Ferramentas:** Docker · Git · Render · Vercel<br>
 **Boas práticas:** autenticação JWT + CSRF, controle de acesso, segurança em dependências (npm audit, `--ignore-scripts`)
 
@@ -50,6 +51,7 @@ Interface web em **React** para o mesmo SaaS de estoque e vendas, com dashboard 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="40" width="40" />
 </p>
 
 **Exposição prévia (base, não uso contínuo):** AWS — EC2 (instâncias Linux) e IAM, nível básico
